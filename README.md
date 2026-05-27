@@ -24,7 +24,7 @@ See [`classify.py`](classify.py). Given a sentence, all words are assumed to be 
 
 ## Results
 
-50 random headlines across categories were classified using the model. Results showed an **accuracy of 64%**.
+50 random headlines across categories were classified using the model. Results showed an **accuracy of 64%**. See [`headlines_by_category.csv`](headlines_by_category.csv) for the full list of headlines, their actual categories, and predicted categories.
 
 ## Further Improvements
 
